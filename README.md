@@ -10,4 +10,4 @@
  
  В frontend\package.json прописан proxy на порт backend.
  
- !!! НЕ КРИТИЧНАЯ ОШИБКА !!!
+ Исправлено!
