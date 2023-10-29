@@ -9,3 +9,5 @@
  - frontend на порту 3000 в /src/app.js которого прописано ждать data с responce
  
  В frontend\package.json прописан proxy на порт backend.
+ 
+ !!! НЕ КРИТИЧНАЯ ОШИБКА !!!
